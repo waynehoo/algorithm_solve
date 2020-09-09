@@ -32,4 +32,6 @@ public class string_list {
         String str2 = StringUtils.join(list2.toArray(), ",");
         System.out.println(list2 + " --> " + str2);
     }
+
+    //some remark
 }
